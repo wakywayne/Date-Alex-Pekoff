@@ -1,0 +1,12 @@
+.main-color-background {
+  background-color: #cc0000;
+}
+.main-color {
+  color: #cc0000;
+}
+.second-color-background {
+  background-color: hsl(203, 8%, 55%);
+}
+.second-color {
+  color: hsl(204, 10%, 62%);
+}
